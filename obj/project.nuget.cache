@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UiYfKh+rNnjchMGjotRxLphQGFH21hv3hKsrSpyMIC9oQXXW2yMQFGd3Z+D/rTwcBRg/QIZxcNjBVqJkp0n/hQ==",
+  "success": true,
+  "projectFilePath": "/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/TestArray.csproj",
+  "expectedPackageFiles": [
+    "/home/tiostitch/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

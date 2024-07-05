@@ -1,0 +1,14 @@
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/bin/Debug/net8.0/TestArray
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/bin/Debug/net8.0/TestArray.deps.json
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/bin/Debug/net8.0/TestArray.runtimeconfig.json
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/bin/Debug/net8.0/TestArray.dll
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/bin/Debug/net8.0/TestArray.pdb
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/obj/Debug/net8.0/TestArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/obj/Debug/net8.0/TestArray.AssemblyInfoInputs.cache
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/obj/Debug/net8.0/TestArray.AssemblyInfo.cs
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/obj/Debug/net8.0/TestArray.csproj.CoreCompileInputs.cache
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/obj/Debug/net8.0/TestArray.dll
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/obj/Debug/net8.0/refint/TestArray.dll
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/obj/Debug/net8.0/TestArray.pdb
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/obj/Debug/net8.0/TestArray.genruntimeconfig.cache
+/home/tiostitch/Documentos/Trabalho/PROJETOS (C#)/TestArray/obj/Debug/net8.0/ref/TestArray.dll
